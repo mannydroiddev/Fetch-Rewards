@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FetchRewards</string>
+    <string name="image_content_description">Image for reward %s</string>
+    <string name="no_rewards_found">No rewards found.</string>
+    <string name="system_error">We\'re experiencing technical difficulties. Please try again later.</string>
+</resources>
