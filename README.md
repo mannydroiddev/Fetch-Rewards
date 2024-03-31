@@ -46,3 +46,8 @@
 
 #### Technical Difficulties
 ![Technical Difficulties](screenshots/Fetch_Rewards_Technical_Difficulties.png)
+
+#### Another Dynamic Theme
+![Another Dynamic Dark Theme Group ID 1](screenshots/Fetch_Rewards_Another_Dynamic_Dark_Theme_Group_ID_1.png)
+
+![Another Dynamic Light Theme Group ID 1](screenshots/Fetch_Rewards_Another_Dynamic_Light_Theme_Group_ID_1.png)
