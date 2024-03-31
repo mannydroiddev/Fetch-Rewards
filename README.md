@@ -1,4 +1,4 @@
-# Fetch - Take Home Solution
+# Fetch Rewards Coding Exercise - Software Engineering - Mobile
 ## Author: Jose Davila - mannydroiddev@gmail.com
 
 # The application package structure
